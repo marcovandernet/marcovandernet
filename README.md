@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcovandernet
-- 👀 I’m interested in Rasberry Pi Phython, ESP8266 C++
-- 🌱 I’m currently learning .Phython and C++
+- 👀 I’m interested in Rasberry Pi Phython, ESP8266 C++, LoRa
+- 🌱 I’m currently learning .Phython and C++, LoRa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
